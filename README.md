@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2> Hey there! I'm Bruna.</h2>
+
+<h3> &nbsp; About Me </h3>
+
+- &nbsp; Graduating in Analysis and systems development.
+- &nbsp; Buser Tech intern developer.
+<br/>
+
+<a href="https://github.com/andradebru">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andradebru&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradebru&theme=dark&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/abrunaandrade/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-abrunaandrade-blue?style=flat-square&logo=linkedin"></a>
+</p>
+**
