@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/andradebru">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=andradebru&theme=dark&show_icons=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradebru&theme=dark&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andradebru&theme=dark&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradebru&theme=dark&layout=compact" />
 </a>
 
 <br/>
