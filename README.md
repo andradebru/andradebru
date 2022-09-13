@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://www.linkedin.com/in/abrunaandrade/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-abrunaandrade-blue?style=flat-square&logo=linkedin"></a>
 </p>
-**
+
