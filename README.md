@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3> &nbsp; About Me </h3>
 
-- &nbsp; Graduating in Analysis and systems development.
+- &nbsp; Graduating in Systems Analysis and Development.
 - &nbsp; Buser Tech intern developer.
 <br/>
 
