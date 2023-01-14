@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hey there! 👋 I'm Bruna.</h2>
+<h2> Hello, World! 👩‍💻 I'm Bruna.</h2>
 
-<h3> &nbsp; About Me </h3>
+<h3> &nbsp; And I'm... </h3>
 
-- &nbsp; Graduating in Systems Analysis and Development.
-- &nbsp; Buser Tech intern developer.
+- &nbsp; ...a software and web development student.
+- &nbsp; ...Buser Tech full stack web intern developer.
 <br/>
 
 <a href="https://github.com/andradebru">
@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/abrunaandrade/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-abrunaandrade-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
