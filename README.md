@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 - &nbsp; ...Buser Tech full stack web intern developer.
 <br/>
 
-<a href="https://github.com/andradebru">
+<!-- <a href="https://github.com/andradebru">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andradebru&theme=dark&show_icons=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradebru&theme=dark&layout=compact" />
 </a>
 
-<br/>
+<br/> -->
 
 <h3> &nbsp;Connect with Me </h3>
 
