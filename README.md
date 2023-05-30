@@ -1,8 +1,6 @@
 <!-- ### Hi there 👋 -->
 
 <!--
-**andradebru/andradebru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,7 +17,7 @@ Here are some ideas to get you started:
 <h3> &nbsp; And I'm... </h3>
 
 - &nbsp; ...a software and web development student.
-- &nbsp; ...Buser Tech full stack web intern developer.
+- &nbsp; ...looking for a new career challenge.
 <br/>
 
 <a href="https://github.com/andradebru">
