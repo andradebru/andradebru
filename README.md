@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 -->
+<!-- ### Hi there  -->
 
 <!--
 Here are some ideas to get you started:
@@ -12,12 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hello, World! 👩‍💻 I'm Bruna.</h2>
-
-<h3> &nbsp; And I'm... </h3>
-
-- &nbsp; ...a software and web development student.
-- &nbsp; ...looking for a new career challenge.
+<h2> Hello, world! 👋 I'm Bruna. 👩‍💻</h2>
+🌱 I'm a software and web development full stack intern and student.
+</br>
+🧰 Professional experience with: Python, Django, Javascript, Vue.js, SQL and PostgreSQL.
+</br>
+📚 Now studying: Java, React and Typescript.
+<br/>
 <br/>
 
 <a href="https://github.com/andradebru">
