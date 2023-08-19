@@ -1,24 +1,13 @@
-<!-- ### Hi there  -->
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h2> Hello, world! 👋 I'm Bruna. 👩‍💻</h2>
-🌱 I'm a software and web development full stack intern and student.
+🌱 I'm a full stack software developer, intern and student.
 </br>
-🧰 Professional experience with: Python, Django, Javascript, Vue.js, SQL and PostgreSQL.
-</br>
-📚 Now studying: Java, React and Typescript.
+🧰 Professional experience with: 
 <br/>
+⠀⠀⠀Python, Django, Javascript, Vue.js, SQL and PostgreSQL
+<br/>
+📚 Now studying: 
+<br/>
+⠀⠀⠀Java, React and Typescript
 <br/>
 
 <a href="https://github.com/andradebru">
