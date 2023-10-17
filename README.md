@@ -3,11 +3,11 @@
 </br>
 🧰 Professional experience with: 
 <br/>
-⠀⠀⠀Python, Django, Javascript, Vue.js, SQL and PostgreSQL
+⠀⠀⠀Typescript, Javascript, React, Vue.js, Python, Django, SQL and PostgreSQL
 <br/>
 📚 Now studying: 
 <br/>
-⠀⠀⠀Java, React and Typescript
+⠀⠀⠀Java, Angular and React
 <br/>
 
 <a href="https://github.com/andradebru">
