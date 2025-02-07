@@ -1,13 +1,9 @@
 <h2> Hello, world! 👋 I'm Bruna. 👩‍💻</h2>
-🌱 I'm a full stack software developer, intern and student.
+🌱 I'm a software developer.
 </br>
 🧰 Professional experience with: 
 <br/>
 ⠀⠀⠀Typescript, Javascript, React, Vue.js, Python, Django, SQL and PostgreSQL
-<br/>
-📚 Now studying: 
-<br/>
-⠀⠀⠀Java, Angular and React
 <br/>
 
 <a href="https://github.com/andradebru">
